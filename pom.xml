@@ -5,7 +5,7 @@
   <artifactId>exploring-java9</artifactId>
   <version>1.0</version>
   <properties>
-    <project.build.encoding>UTF-8</project.build.encoding>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <build>
     <pluginManagement>
