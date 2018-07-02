@@ -12,7 +12,7 @@
         <plugins>
           <plugin>
             <groupId>org.apache.maven.plugins</groupId>
-            <artifactid>maven-resources-plugin</artifactId>
+            <artifactId>maven-resources-plugin</artifactId>
             <version>3.0.2</version>
           </plugin>
         </plugins>
